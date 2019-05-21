@@ -5,4 +5,5 @@ Git is changed
 Git is a free tool
 creat a new branch
 change a new status
-new barnch feature1
+Created new barnch feature1
+
